@@ -23,7 +23,7 @@ This repository contains notes and summaries from the *Microbiology* course at H
 4. 🛠️**病毒.pdf**
 5. 🛠️ **微生物的营养.pdf**
 6. 🛠️ **微生物的生长和控制.pdf**
-7. 🛠️ **微生物的代谢.pdf**
+7. ✅ **微生物的代谢.pdf**
 8. 🛠️ **微生物的遗传与育种.pdf**
 9. 🛠️ **微生物生态与环境微生物.pdf**
 10. 🛠️ **传染与免疫.pdf**
