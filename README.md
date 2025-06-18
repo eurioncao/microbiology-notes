@@ -1,4 +1,5 @@
 📎 详见 LICENSE 文件，使用前请阅读版权说明与限制。  
+📎 Please refer to the LICENSE file for detailed copyright and usage terms before using this material.
 
 # 📘 微生物学笔记 Microbiology Notes
 
