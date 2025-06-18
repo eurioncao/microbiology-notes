@@ -7,13 +7,6 @@
 
 📌 **欢迎反馈或补充考点更新**，你们的每一条建议都能让这份资料变得更加完善。希望我们都能在知识的传承中，为人类科学的发展尽一份绵薄之力 🌱
 
----
-
-This repository contains notes and summaries from the *Microbiology* course at Huazhong University of Science and Technology. It aims to help students ease their exam stress by providing a structured and concise study reference.
-
-📬 **Feel free to suggest corrections or share updated content.** Together, we hope to contribute—however modestly—to the progress of science and education.
-
----
 
 # 📂 内容目录 | File List
 
