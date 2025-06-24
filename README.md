@@ -1,5 +1,5 @@
 
-# 📘 微生物学笔记 Microbiology Notes
+# 📘 微生物学笔记（已完结） Microbiology Notes（Completed）
 
 > 🎓 帮助更多人从繁重的考试压力中解放出来！
 
